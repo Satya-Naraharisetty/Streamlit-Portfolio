@@ -92,7 +92,7 @@ st.write(
 - 🌐 Web Technologies: HTML, CSS, GIT
 - 🗄️ Databases: MySQL
 - 📊 Tools: MS Office, Google Suite, Visual Studio Code, PyCharm
--     Version Control: Git, GitHub
+- 🎛️  Version Control: Git, GitHub
 """
 )
 
