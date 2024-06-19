@@ -91,6 +91,8 @@ st.write(
 - 👩‍💻 Programming: Java, Python (Numpy, Pandas, Streamlit), SQL
 - 🌐 Web Technologies: HTML, CSS, GIT
 - 🗄️ Databases: MySQL
+- 📊 Tools: MS Office, Google Suite, Visual Studio Code, PyCharm
+-     Version Control: Git, GitHub
 """
 )
 
@@ -150,5 +152,5 @@ st.write(
 st.write('\n')
 st.subheader("Projects & Accomplishments")
 st.write("---")
-for project, link in PROJECTS.items():
-    st.write(f"[{project}]({link})")
+# for project, link in PROJECTS.items():
+#     st.write(f"[{project}]({link})")
