@@ -21,15 +21,15 @@ excited to contribute to our organization"s success and continue growing persona
 EMAIL = "venkatnaraharisetty1234@gmail.com"
 SOCIAL_MEDIA = {
     "Instagram": "https://www.instagram.com/_._siddu_._._/",
-    "LinkedIn": "https://linkedin.com/in/venkatnaraharisetty",
+    "LinkedIn": "https://linkedin.com/in/satyanaraharisetty",
     "GitHub": "https://github.com/satya-naraharisetty",
     "Twitter": "https://twitter.com/Siddu1994421l",
 }
 PROJECTS = {
-    "🏆 Sales Dashboard - Comparing sales across three stores": "https://youtu.be/Sb0A9i6d320",
-    "🏆 Income and Expense Tracker - Web app with NoSQL database": "https://youtu.be/3egaMfE9388",
-    "🏆 Desktop Application - Excel2CSV converter with user settings & menubar": "https://youtu.be/LzCfNanQ_9c",
-    "🏆 MyToolBelt - Custom MS Excel add-in to combine Python & Excel": "https://pythonandvba.com/mytoolbelt/",
+    "Project 1": "https://www.example.com/project1",
+    "Project 2": "https://www.example.com/project2",
+    "Project 3": "https://www.example.com/project3",
+    "Project 4": "https://www.example.com/project4",
 }
 
 
@@ -88,10 +88,10 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
-- 👩‍💻 Programming: Java, Python (Numpy, Pandas, Streamlit), SQL
-- 🌐 Web Technologies: HTML, CSS, GIT
-- 🗄️ Databases: MySQL
-- 📊 Tools: MS Office, Google Suite, Visual Studio Code, PyCharm
+- 👩‍💻 Programming: Java, Python (Numpy, Pandas, Streamlit, Flask)
+- 🌐 Web Technologies: HTML, CSS, Javascript
+- 🗄️ Database: SQL, MySQL
+- 📊 Tools: MS Office, Google Suite, Visual Studio Code, PyCharm, IntelliJ IDEA
 - 🎛️  Version Control: Git, GitHub
 """
 )
